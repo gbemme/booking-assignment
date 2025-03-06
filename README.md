@@ -9,7 +9,6 @@ Make sure to install dependencies:
 
 ```bash
 
-cd parking-space
 
 # npm
 npm install
